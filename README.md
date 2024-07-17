@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 🔭 I’m currently working on astrophysical simulations
+
 ⚡ I love using Rust for personal projects or wherever I get the chance to
+
 🤔 Interested in computational geometry, rendering simulations...
 
 <!--
