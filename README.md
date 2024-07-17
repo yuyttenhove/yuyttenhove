@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on astrophysical simulations
+🔭 I’m currently working on astrophysical simulations (PhD)
 
 ⚡ I love using Rust for personal projects or wherever I get the chance to
 
