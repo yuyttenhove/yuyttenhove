@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on astrophysical simulations
-- ⚡ I love using Rust for personal projects or wherever I get the chance to
-- 🤔 Interested in computational geometry, rendering simulations...
+🔭 I’m currently working on astrophysical simulations
+⚡ I love using Rust for personal projects or wherever I get the chance to
+🤔 Interested in computational geometry, rendering simulations...
 
 <!--
 **yuyttenhove/yuyttenhove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
