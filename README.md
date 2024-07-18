@@ -6,7 +6,7 @@
 
 🤔 Interested in computational geometry, rendering simulations...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyttenhove)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyttenhove)](https://github.com/yuyttenhove)
 
 
 
