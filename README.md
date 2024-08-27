@@ -4,7 +4,7 @@
 
 ⚡ I love using Rust for personal projects or wherever I get the chance to
 
-🤔 Interested in computational geometry, rendering, simulations...
+🤔 Interested in computational geometry, rendering (realtime or otherwise), simulations...
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyttenhove)](https://github.com/yuyttenhove)
 
